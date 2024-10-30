@@ -1,0 +1,53 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Admin Nav\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-02 18:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: aknp_keyboard_nav"
+
+#: admin-keyboard-nav.php:56
+msgid "Activate Admin Keyboard Menu Nav"
+msgstr ""
+
+#: admin-keyboard-nav.php:158
+msgid "Admin Menus"
+msgstr ""
+
+#: admin-keyboard-nav.php:57
+msgid "Helps to navigate menu using keyboard"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nkb-bd.github.io/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lukman Nakib"
+msgstr ""
+
+#: admin-keyboard-nav.php:164
+msgid "Press Enter To Go / Esc To Close"
+msgstr ""
+
+#: admin-keyboard-nav.php:47
+msgid "Turn on/off Admin Navigation"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Admin Nav"
+msgstr ""
+
+#. Description of the plugin
+msgid "WP Keyboard Navigation"
+msgstr ""
